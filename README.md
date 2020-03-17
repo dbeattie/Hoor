@@ -1,27 +1,25 @@
 # Odin
 
-![Ghost version](https://img.shields.io/badge/Ghost-2.x-brightgreen.svg?style=flat-square)
-[![Donate to Odin Author](https://img.shields.io/badge/donate-paypal-003087.svg?style=flat-square)](https://www.paypal.me/andreatarquini/5)
+![Ghost version](https://img.shields.io/badge/Ghost-3.x-brightgreen.svg?style=flat-square)
+[![Donate](https://img.shields.io/badge/donate-paypal-003087.svg?style=flat-square)](https://www.paypal.me/andreatarquini/5)
 
-> A simple theme for Ghost (forked from Odin, which was forked from Casper).
+> A simple theme for Ghost (forked from Odin, which was forked from Casper). 
 
 [<img src="http://i.imgur.com/SjCzgwp.jpg">]()
 
-***Do you like my theme?***  
-Some :coffee::coffee::coffee::coffee: offered with [Paypal](https://www.paypal.me/andreatarquini/5) are appreciated.
+***Do you like [Andrea's Theme](https://github.com/h4t0n)?***  
+Feel free to buy some :coffee::coffee::coffee::coffee: offered with [Paypal](https://www.paypal.me/andreatarquini/5) are appreciated. Any donations will go to Andrea, not me.
 
 ## Intro
-**Odin** is a very simple fork of the Ghost default theme [Casper](https://github.com/TryGhost/Casper).
-As you know, Casper doesn't have some nice features very useful for developers such as syntax
-highlight, comments and big social sharing features. So I created this theme to fill the gap
-but keeping all the good and minimalistic features of Casper.
+**Hoor** is the blind son of Odin, which was a very simple fork of the Ghost default theme [Casper](https://github.com/TryGhost/Casper).
 
-
+Casper didn't have some nice features very useful for developers such as syntax
+highlighting, comments and social sharing features. Odin was created to keep all the minimalistic features of Casper but to fill those gaps. Hoor is a personal modification for [darrenbeattie.com](https://darrenbeattie.com) using Ghost. My first attempt at ghost theme moedification using handlebars.js.
 
 ### Features
-* Casper minimalistic and clean style (without right side menu)
-* Works with Ghost 2+
-* Fully responsive (for mobiles and tablets)
+* Casper minimalistic and clean style (no right side menu)
+* Works with Ghost 3+
+* Fully responsive (for mobile and tablets)
 * Home Page Navigation Menu Buttons
 * Google Analytics (easily configurable by code injection in the admin area)
 * [Disqus](https://disqus.com) comments (easily configurable by code injection in the admin area)
@@ -39,7 +37,7 @@ $ cd /your-ghost-root-directory
 $ git clone https://github.com/h4t0n/odin.git content/themes/odin
 ```
 
-Restart Ghost and select Odin theme from your Admin Area.
+Restart Ghost and select Hoor theme from your Admin Area.
 
 ## Configuration
 No need to configure ***Prism*** or ***RRSSB*** buttons.
