@@ -1,9 +1,9 @@
 # Odin
 
 ![Ghost version](https://img.shields.io/badge/Ghost-2.x-brightgreen.svg?style=flat-square)
-[![Donate](https://img.shields.io/badge/donate-paypal-003087.svg?style=flat-square)](https://www.paypal.me/andreatarquini/5)
+[![Donate to Odin Author](https://img.shields.io/badge/donate-paypal-003087.svg?style=flat-square)](https://www.paypal.me/andreatarquini/5)
 
-> A simple theme for Ghost made for geeks, hackers and developers (forked from Casper).
+> A simple theme for Ghost (forked from Odin, which was forked from Casper).
 
 [<img src="http://i.imgur.com/SjCzgwp.jpg">]()
 
