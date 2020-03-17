@@ -1,4 +1,4 @@
-# Odin
+# Hoor
 
 ![Ghost version](https://img.shields.io/badge/Ghost-3.x-brightgreen.svg?style=flat-square)
 [![Donate](https://img.shields.io/badge/donate-paypal-003087.svg?style=flat-square)](https://www.paypal.me/andreatarquini/5)
