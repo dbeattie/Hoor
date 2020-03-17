@@ -8,10 +8,10 @@
 [<img src="http://i.imgur.com/SjCzgwp.jpg">]()
 
 ***Do you like [Andrea's Theme](https://github.com/h4t0n)?***  
-Feel free to buy some :coffee::coffee::coffee::coffee: offered with [Paypal](https://www.paypal.me/andreatarquini/5) are appreciated. Any donations will go to Andrea, not me.
+Feel free to buy Andrea some :coffee::coffee::coffee::coffee: with [Paypal](https://www.paypal.me/andreatarquini/5). Any donations will currently go to Andrea, not me. 
 
 ## Intro
-**Hoor** is the blind son of Odin, which was a very simple fork of the Ghost default theme [Casper](https://github.com/TryGhost/Casper).
+**[Hoor](https://en.wikipedia.org/wiki/H%C3%B6%C3%B0r)** is the blind son of Odin, which was a very simple fork of the Ghost default theme [Casper](https://github.com/TryGhost/Casper).
 
 Casper didn't have some nice features very useful for developers such as syntax
 highlighting, comments and social sharing features. Odin was created to keep all the minimalistic features of Casper but to fill those gaps. Hoor is a personal modification for [darrenbeattie.com](https://darrenbeattie.com) using Ghost. My first attempt at ghost theme moedification using handlebars.js.
